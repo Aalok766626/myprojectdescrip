@@ -1,0 +1,28 @@
+.navbar-dark {
+	background: #000000;
+	color: floralwhite;
+}
+.headers {
+	margin: 0px auto;
+	padding: 60px 30px 10px 30px;
+	background: #0000ff;
+	color: floralwhite;
+}
+.row-head {
+	margin: 0px auto;
+	padding: 0px;
+}
+.cardhead {
+	background: #ff0000;
+	color: floralwhite;
+}
+.cardbody {
+	background: #ddd;
+	color: #000000;
+}
+.footer {
+	margin: 0px auto;
+	padding: 20px 0px 20px 0px;
+	background-color: #ff075D;
+	color: floralwhite;
+}
